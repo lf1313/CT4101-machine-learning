@@ -22,6 +22,6 @@ python -m pip install -r requirements.txt
 
 ## Running the project:
 1. Make sure risk_factors_cervical_cancer.csv is located in the data folder
-2. Open notebooks/milestone2.ipynb in VS Code with the Python and Jupyter extensions installed
+2. Open notebooks/milestone2.ipynb or notebooks/milestone3.ipynb in VS Code with the Python and Jupyter extensions installed
 3. Select the Python interpreter from the .venv environment as the notebook kernel.
-4. Run all cells in order to reproduce the data audit, preprocessing and baseline evaluation.
+4. Run all cells in order to reproduce the results for the selected milestone
